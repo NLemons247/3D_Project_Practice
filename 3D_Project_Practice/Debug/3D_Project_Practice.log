@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\natel\source\repos\3D_Project_Practice\3D_Project_Practice\Source.cpp(396,24): warning C4101: 'lampVBO': unreferenced local variable
+C:\Users\natel\source\repos\3D_Project_Practice\3D_Project_Practice\Source.cpp(396,15): warning C4101: 'lampVAO': unreferenced local variable
+C:\Users\natel\source\repos\3D_Project_Practice\3D_Project_Practice\Source.cpp(393,115): warning C4101: 'lampTopEBO': unreferenced local variable
+C:\Users\natel\source\repos\3D_Project_Practice\3D_Project_Practice\Source.cpp(1067,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  3D_Project_Practice.vcxproj -> C:\Users\natel\source\repos\3D_Project_Practice\Debug\3D_Project_Practice.exe
